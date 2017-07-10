@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name USB_Micro)(type KiCad)(uri "$(KIPRJMOD)/libs/USB_Micro.pretty")(options "")(descr ""))
+  (lib (name Usb_A)(type KiCad)(uri "$(KIPRJMOD)/libs/Usb_A.pretty")(options "")(descr ""))
+  (lib (name BatteryHolder_MPD_BK_888)(type KiCad)(uri "$(KIPRJMOD)/libs/BatteryHolder_MPD_BK_888.pretty")(options "")(descr ""))
+  (lib (name Microchip_MCP73831)(type KiCad)(uri "$(KIPRJMOD)/libs/Microchip_MCP73831.pretty")(options "")(descr ""))
+)
